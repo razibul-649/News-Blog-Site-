@@ -1,0 +1,13 @@
+{
+  "name" : "project/project",
+  "type" : "project",
+  "description" : "A Simple project for practice php",
+  "keywords" : [],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4" : {
+      "App\\": "app//"
+    }
+  }
+}
